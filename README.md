@@ -19,5 +19,14 @@ public static String userName()
 { 
 String[] WordListZero = {"Uneasily", "Weirdly", "Cheerfully", "Expertly", "Wholeheartedly", "Randomly", "Brutally", "Really", "Briskly", "Sloppily", "Wickedly"};
 String[] WordListOne = {"Tall", "Small", "Medium", "Extra", "Venti", "Alto", "Grande"};
-String[] WordListTwo = {adj};
-String[] WordListThree = {"Latte", };
+String[] WordListTwo = {"Iced","Chocolate Mocha", "Matcha", "Chai", "Hot", "White Chocolate Mocha", "Caramel", "Soy", "Double"};
+String[] WordListThree = {"Latte", "Coffee", "Frappe", "Expresso", "Macchiatto"};
+int zeroLength = WordListZero.length;
+int oneLength = WordListOne.length;
+int twoLength = WordListTwo.length;
+int threeLength = WordListThree.length;
+
+
+
+}
+}
