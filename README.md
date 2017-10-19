@@ -20,4 +20,4 @@ public static String userName()
 String[] WordListZero = {"Uneasily", "Weirdly", "Cheerfully", "Expertly", "Wholeheartedly", "Randomly", "Brutally", "Really", "Briskly", "Sloppily", "Wickedly"};
 String[] WordListOne = {"Tall", "Small", "Medium", "Extra", "Venti", "Alto", "Grande"};
 String[] WordListTwo = {adj};
-String[] wordListThree = {"Latte", };
+String[] WordListThree = {"Latte", };
