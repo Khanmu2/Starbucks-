@@ -8,4 +8,6 @@ public PhraseMatic (String userName, String addedPhrase)
 // may want to use for loop, fill char, also need to make the chars into numbers
 char char1 = userName.charAt(0);
 // mystery; how to produce a unique number from characters?
-// String [] WordListOne = {}
+// String [] WordListOne = {adj}, 
+//WordListtwo{adj}
+//wordListthree{noun}
