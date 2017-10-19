@@ -9,5 +9,5 @@ public PhraseMatic (String userName, String addedPhrase)
 char char1 = userName.charAt(0);
 // mystery; how to produce a unique number from characters?
 // String [] WordListOne = {adj}, 
-//WordListtwo{adj}
-//wordListthree{noun}
+// String [] WordListtwo{adj},
+// String [] wordListthree{noun},
