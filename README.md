@@ -18,15 +18,15 @@ public class PhraseMatic
 public static String userName()
 { 
 String[] WordListZero = {"Uneasily", "Weirdly", "Cheerfully", "Expertly", "Wholeheartedly", "Randomly", "Brutally", "Really", "Briskly", "Sloppily", "Wickedly"};
-String[] WordListOne = {"Tall", "Small", "Medium", "Extra", "Venti", "Alto", "Grande"};
-String[] WordListTwo = {"Iced","Chocolate Mocha", "Matcha", "Chai", "Hot", "White Chocolate Mocha", "Caramel", "Soy", "Double"};
-String[] WordListThree = {"Latte", "Coffee", "Frappe", "Expresso", "Macchiatto"};
+String[] WordListOne = {"Tall", "Small", "Medium", "Extra", "Venti", "Alto", "Grande", "Double", "Triple"};
+String[] WordListTwo = {"Iced","Chocolate Mocha", "Matcha", "Chai", "Hot", "White Chocolate Mocha", "Caramel", "Soy", "Coconut Milk"};
+String[] WordListThree = {"Latte", "Coffee", "Frappe", "Expresso", "Macchiatto", "Frappucino"};
 int zeroLength = WordListZero.length;
 int oneLength = WordListOne.length;
 int twoLength = WordListTwo.length;
 int threeLength = WordListThree.length;
 
-
+// String phrase = wordListZero[rand0] + " " + wordListOne[randl] + " " + wordListTwo[rand2] + " " + wordListThree[rand3]
 
 }
 }
